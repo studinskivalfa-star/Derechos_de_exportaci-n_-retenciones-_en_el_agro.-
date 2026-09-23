@@ -1,0 +1,3 @@
+https://thunderous-cactus-635a3d.netlify.app/
+**Derechos de Exportación al agro argentino (2020-2025)**
+El proyecto analiza la evolución de los derechos de exportación (retenciones) aplicados a soja, maíz, trigo y girasol entre 2020 y 2025, a través de seis decretos que modificaron las alícuotas (230/2020, 29/2023, 38/2025, 439/2025, 526/2025 y 877/2025). Se cruza esa normativa con los datos reales de exportación de cada complejo (INDEC, 2021-2025) para evaluar el impacto de las retenciones sobre el comercio exterior, identificando que factores productivos (como la sequía de 2023) influyeron más que los cambios impositivos, y que el trigo fue el cultivo más beneficiado por las bajas de alícuotas en 2025.
